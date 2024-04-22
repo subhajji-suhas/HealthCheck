@@ -1,2 +1,3 @@
-For Linux Systems use command <h1>streamlit run HC.py</h1>
-For windows <h1>python -m streamlit run HC.py</h1>
+To install dependencies use <h3> pip install -r Requirements.py </h3>
+For Linux Systems use command <h3>streamlit run HC.py</h3>
+For windows <h3>python -m streamlit run HC.py</h3>
